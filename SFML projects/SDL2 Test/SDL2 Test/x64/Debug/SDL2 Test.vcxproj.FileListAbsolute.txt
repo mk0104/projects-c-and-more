@@ -1,0 +1,2 @@
+B:\Coding\cpp\SFML practice\SDL2 Test\SDL2 Test\x64\Debug\SDL2 Test.vcxproj.CopyComplete
+B:\Coding\cpp\SFML projects\SDL2 Test\SDL2 Test\x64\Debug\SDL2 Test.vcxproj.CopyComplete
